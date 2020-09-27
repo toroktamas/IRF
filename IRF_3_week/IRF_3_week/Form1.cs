@@ -21,6 +21,7 @@ namespace IRF_3_week
             label1.Text = Resource.FullName;
             
             button1.Text = Resource.Add;
+            button2.Text = Resource.ReadFile;
 
             listBox1.DataSource = users;
             listBox1.ValueMember = "ID";
