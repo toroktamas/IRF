@@ -1,0 +1,16 @@
+C:\Users\torok\Documents\IRF\GIT\IRF_3_week\IRF_3_week\bin\Debug\IRF_3_week.exe.config
+C:\Users\torok\Documents\IRF\GIT\IRF_3_week\IRF_3_week\bin\Debug\IRF_3_week.exe
+C:\Users\torok\Documents\IRF\GIT\IRF_3_week\IRF_3_week\bin\Debug\IRF_3_week.pdb
+C:\Users\torok\Documents\IRF\GIT\IRF_3_week\IRF_3_week\bin\Debug\EntityFramework.dll
+C:\Users\torok\Documents\IRF\GIT\IRF_3_week\IRF_3_week\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\torok\Documents\IRF\GIT\IRF_3_week\IRF_3_week\bin\Debug\EntityFramework.xml
+C:\Users\torok\Documents\IRF\GIT\IRF_3_week\IRF_3_week\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\torok\Documents\IRF\GIT\IRF_3_week\IRF_3_week\obj\Debug\IRF_3_week.csprojAssemblyReference.cache
+C:\Users\torok\Documents\IRF\GIT\IRF_3_week\IRF_3_week\obj\Debug\IRF_3_week.Form1.resources
+C:\Users\torok\Documents\IRF\GIT\IRF_3_week\IRF_3_week\obj\Debug\IRF_3_week.Properties.Resources.resources
+C:\Users\torok\Documents\IRF\GIT\IRF_3_week\IRF_3_week\obj\Debug\IRF_3_week.Resource.resources
+C:\Users\torok\Documents\IRF\GIT\IRF_3_week\IRF_3_week\obj\Debug\IRF_3_week.csproj.GenerateResource.cache
+C:\Users\torok\Documents\IRF\GIT\IRF_3_week\IRF_3_week\obj\Debug\IRF_3_week.csproj.CoreCompileInputs.cache
+C:\Users\torok\Documents\IRF\GIT\IRF_3_week\IRF_3_week\obj\Debug\IRF_3_week.csproj.CopyComplete
+C:\Users\torok\Documents\IRF\GIT\IRF_3_week\IRF_3_week\obj\Debug\IRF_3_week.exe
+C:\Users\torok\Documents\IRF\GIT\IRF_3_week\IRF_3_week\obj\Debug\IRF_3_week.pdb
