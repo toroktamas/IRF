@@ -1,0 +1,15 @@
+C:\Users\torok\Documents\IRF\GIT\week05\week05\week05\bin\Debug\week05.exe.config
+C:\Users\torok\Documents\IRF\GIT\week05\week05\week05\bin\Debug\week05.exe
+C:\Users\torok\Documents\IRF\GIT\week05\week05\week05\bin\Debug\week05.pdb
+C:\Users\torok\Documents\IRF\GIT\week05\week05\week05\bin\Debug\EntityFramework.dll
+C:\Users\torok\Documents\IRF\GIT\week05\week05\week05\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\torok\Documents\IRF\GIT\week05\week05\week05\bin\Debug\EntityFramework.xml
+C:\Users\torok\Documents\IRF\GIT\week05\week05\week05\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\torok\Documents\IRF\GIT\week05\week05\week05\obj\Debug\week05.csprojAssemblyReference.cache
+C:\Users\torok\Documents\IRF\GIT\week05\week05\week05\obj\Debug\week05.Form1.resources
+C:\Users\torok\Documents\IRF\GIT\week05\week05\week05\obj\Debug\week05.Properties.Resources.resources
+C:\Users\torok\Documents\IRF\GIT\week05\week05\week05\obj\Debug\week05.csproj.GenerateResource.cache
+C:\Users\torok\Documents\IRF\GIT\week05\week05\week05\obj\Debug\week05.csproj.CoreCompileInputs.cache
+C:\Users\torok\Documents\IRF\GIT\week05\week05\week05\obj\Debug\week05.csproj.CopyComplete
+C:\Users\torok\Documents\IRF\GIT\week05\week05\week05\obj\Debug\week05.exe
+C:\Users\torok\Documents\IRF\GIT\week05\week05\week05\obj\Debug\week05.pdb
