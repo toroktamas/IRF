@@ -2,6 +2,7 @@ C:\Users\torok\Documents\IRF\GIT\week07\week07\week07\bin\Debug\week07.exe.confi
 C:\Users\torok\Documents\IRF\GIT\week07\week07\week07\bin\Debug\week07.exe
 C:\Users\torok\Documents\IRF\GIT\week07\week07\week07\bin\Debug\week07.pdb
 C:\Users\torok\Documents\IRF\GIT\week07\week07\week07\obj\Debug\week07.csprojAssemblyReference.cache
+C:\Users\torok\Documents\IRF\GIT\week07\week07\week07\obj\Debug\week07.Form1.resources
 C:\Users\torok\Documents\IRF\GIT\week07\week07\week07\obj\Debug\week07.Properties.Resources.resources
 C:\Users\torok\Documents\IRF\GIT\week07\week07\week07\obj\Debug\week07.csproj.GenerateResource.cache
 C:\Users\torok\Documents\IRF\GIT\week07\week07\week07\obj\Debug\week07.csproj.CoreCompileInputs.cache
