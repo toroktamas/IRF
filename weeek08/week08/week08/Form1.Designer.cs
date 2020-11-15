@@ -36,6 +36,7 @@
             this.btnSelectBall = new System.Windows.Forms.Button();
             this.lblNext = new System.Windows.Forms.Label();
             this.btnColor = new System.Windows.Forms.Button();
+            this.btnSelectPresent = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // mainPanel
@@ -86,18 +87,29 @@
             // 
             // btnColor
             // 
-            this.btnColor.Location = new System.Drawing.Point(460, 35);
+            this.btnColor.Location = new System.Drawing.Point(538, 36);
             this.btnColor.Name = "btnColor";
             this.btnColor.Size = new System.Drawing.Size(75, 23);
             this.btnColor.TabIndex = 4;
             this.btnColor.UseVisualStyleBackColor = true;
             this.btnColor.Click += new System.EventHandler(this.btnColor_Click);
             // 
+            // btnSelectPresent
+            // 
+            this.btnSelectPresent.Location = new System.Drawing.Point(437, 34);
+            this.btnSelectPresent.Name = "btnSelectPresent";
+            this.btnSelectPresent.Size = new System.Drawing.Size(75, 23);
+            this.btnSelectPresent.TabIndex = 5;
+            this.btnSelectPresent.Text = "PRESENT";
+            this.btnSelectPresent.UseVisualStyleBackColor = true;
+            this.btnSelectPresent.Click += new System.EventHandler(this.btnSelectPresent_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnSelectPresent);
             this.Controls.Add(this.btnColor);
             this.Controls.Add(this.lblNext);
             this.Controls.Add(this.btnSelectBall);
@@ -119,6 +131,7 @@
         private System.Windows.Forms.Button btnSelectBall;
         private System.Windows.Forms.Label lblNext;
         private System.Windows.Forms.Button btnColor;
+        private System.Windows.Forms.Button btnSelectPresent;
     }
 }
 

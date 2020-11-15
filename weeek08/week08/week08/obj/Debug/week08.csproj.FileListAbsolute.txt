@@ -1,0 +1,11 @@
+C:\Users\torok\Documents\IRF\GIT\weeek08\week08\week08\bin\Debug\week08.exe.config
+C:\Users\torok\Documents\IRF\GIT\weeek08\week08\week08\bin\Debug\week08.exe
+C:\Users\torok\Documents\IRF\GIT\weeek08\week08\week08\bin\Debug\week08.pdb
+C:\Users\torok\Documents\IRF\GIT\weeek08\week08\week08\obj\Debug\week08.csprojAssemblyReference.cache
+C:\Users\torok\Documents\IRF\GIT\weeek08\week08\week08\obj\Debug\week08.Form1.resources
+C:\Users\torok\Documents\IRF\GIT\weeek08\week08\week08\obj\Debug\week08.Properties.Resources.resources
+C:\Users\torok\Documents\IRF\GIT\weeek08\week08\week08\obj\Debug\week08.csproj.GenerateResource.cache
+C:\Users\torok\Documents\IRF\GIT\weeek08\week08\week08\obj\Debug\week08.csproj.CoreCompileInputs.cache
+C:\Users\torok\Documents\IRF\GIT\weeek08\week08\week08\obj\Debug\week08.exe
+C:\Users\torok\Documents\IRF\GIT\weeek08\week08\week08\obj\Debug\week08.pdb
+C:\Users\torok\Documents\IRF\GIT\weeek08\week08\week08\bin\Debug\Images\car.png

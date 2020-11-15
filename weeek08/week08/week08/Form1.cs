@@ -92,5 +92,10 @@ namespace week08
                 return;
             button.BackColor = colorPicker.Color;
         }
+
+        private void btnSelectPresent_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
