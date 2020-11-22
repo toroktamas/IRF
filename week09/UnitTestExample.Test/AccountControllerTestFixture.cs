@@ -6,6 +6,9 @@ using System.Text;
 using System.Threading.Tasks;
 using UnitTestExample.Controllers;
 using System.Activities;
+using Moq;
+using UnitTestExample.Abstractions;
+using UnitTestExample.Entities;
 
 namespace UnitTestExample.Test
 {
@@ -94,6 +97,59 @@ namespace UnitTestExample.Test
             catch (Exception ex)
             {
                 Assert.IsInstanceOf<ValidationException>(ex);
+            }
+
+            // Assert
+        }
+
+        [
+            Test,
+            TestCase("irf@uni-corvinus.hu", "Abcd1234"),
+            TestCase("irf@uni-corvinus.hu", "Abcd1234567"),
+        ]
+        public void TestRegisterHappysPath(string email, string password) 
+        {
+            // Arrange
+            var accountServiceMock = new Mock<IAccountManager>(MockBehavior.Strict);
+            accountServiceMock
+                .Setup(m => m.CreateAccount(It.IsAny<Account>()))
+                .Returns<Account>(a => a);
+            var accountController = new AccountController();
+            accountController.AccountManager = accountServiceMock.Object;
+
+            // Act
+            var actualResult = accountController.Register(email, password);
+
+            // Assert
+            Assert.AreEqual(email, actualResult.Email);
+            Assert.AreEqual(password, actualResult.Password);
+            Assert.AreNotEqual(Guid.Empty, actualResult.ID);
+            accountServiceMock.Verify(m => m.CreateAccount(actualResult), Times.Once);
+        }
+
+        [
+            Test,
+            TestCase("irf@uni-corvinus.hu", "Abcd1234")
+        ]
+        public void TestRegisterApplicationException(string newEmail, string newPassword)
+        {
+            // Arrange
+            var accountServiceMock = new Mock<IAccountManager>(MockBehavior.Strict);
+            accountServiceMock
+                .Setup(m => m.CreateAccount(It.IsAny<Account>()))
+                .Throws<ApplicationException>();
+            var accountController = new AccountController();
+            accountController.AccountManager = accountServiceMock.Object;
+
+            // Act
+            try
+            {
+                var actualResult = accountController.Register(newEmail, newPassword);
+                Assert.Fail();
+            }
+            catch (Exception ex)
+            {
+                Assert.IsInstanceOf<ApplicationException>(ex);
             }
 
             // Assert
