@@ -7,3 +7,13 @@ C:\Users\dburk\source\repos\UnitTestExample\UnitTestExample\obj\Debug\UnitTestEx
 C:\Users\dburk\source\repos\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.csproj.GenerateResource.cache
 C:\Users\dburk\source\repos\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.exe
 C:\Users\dburk\source\repos\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.pdb
+C:\Users\torok\Documents\IRF\GIT\week09\UnitTestExample\bin\Debug\UnitTestExample.exe.config
+C:\Users\torok\Documents\IRF\GIT\week09\UnitTestExample\bin\Debug\UnitTestExample.exe
+C:\Users\torok\Documents\IRF\GIT\week09\UnitTestExample\bin\Debug\UnitTestExample.pdb
+C:\Users\torok\Documents\IRF\GIT\week09\UnitTestExample\obj\Debug\UnitTestExample.csprojAssemblyReference.cache
+C:\Users\torok\Documents\IRF\GIT\week09\UnitTestExample\obj\Debug\UnitTestExample.Form1.resources
+C:\Users\torok\Documents\IRF\GIT\week09\UnitTestExample\obj\Debug\UnitTestExample.Properties.Resources.resources
+C:\Users\torok\Documents\IRF\GIT\week09\UnitTestExample\obj\Debug\UnitTestExample.csproj.GenerateResource.cache
+C:\Users\torok\Documents\IRF\GIT\week09\UnitTestExample\obj\Debug\UnitTestExample.csproj.CoreCompileInputs.cache
+C:\Users\torok\Documents\IRF\GIT\week09\UnitTestExample\obj\Debug\UnitTestExample.exe
+C:\Users\torok\Documents\IRF\GIT\week09\UnitTestExample\obj\Debug\UnitTestExample.pdb
