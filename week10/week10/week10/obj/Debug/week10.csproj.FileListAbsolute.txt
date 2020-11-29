@@ -9,3 +9,4 @@ C:\Users\torok\Documents\IRF\GIT\week10\week10\week10\obj\Debug\week10.csproj.Co
 C:\Users\torok\Documents\IRF\GIT\week10\week10\week10\obj\Debug\week10.csproj.CopyComplete
 C:\Users\torok\Documents\IRF\GIT\week10\week10\week10\obj\Debug\week10.exe
 C:\Users\torok\Documents\IRF\GIT\week10\week10\week10\obj\Debug\week10.pdb
+C:\Users\torok\Documents\IRF\GIT\week10\week10\week10\obj\Debug\week10.Form1.resources
