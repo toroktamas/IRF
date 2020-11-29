@@ -1,0 +1,11 @@
+C:\Users\torok\Documents\IRF\GIT\week10\week10\week10\bin\Debug\week10.exe.config
+C:\Users\torok\Documents\IRF\GIT\week10\week10\week10\bin\Debug\week10.exe
+C:\Users\torok\Documents\IRF\GIT\week10\week10\week10\bin\Debug\week10.pdb
+C:\Users\torok\Documents\IRF\GIT\week10\week10\week10\bin\Debug\WorldsHardestGame.dll
+C:\Users\torok\Documents\IRF\GIT\week10\week10\week10\obj\Debug\week10.csprojAssemblyReference.cache
+C:\Users\torok\Documents\IRF\GIT\week10\week10\week10\obj\Debug\week10.Properties.Resources.resources
+C:\Users\torok\Documents\IRF\GIT\week10\week10\week10\obj\Debug\week10.csproj.GenerateResource.cache
+C:\Users\torok\Documents\IRF\GIT\week10\week10\week10\obj\Debug\week10.csproj.CoreCompileInputs.cache
+C:\Users\torok\Documents\IRF\GIT\week10\week10\week10\obj\Debug\week10.csproj.CopyComplete
+C:\Users\torok\Documents\IRF\GIT\week10\week10\week10\obj\Debug\week10.exe
+C:\Users\torok\Documents\IRF\GIT\week10\week10\week10\obj\Debug\week10.pdb
